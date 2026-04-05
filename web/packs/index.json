@@ -1,7 +1,8 @@
 {
   "packs": [
     "basepack.json",
-    "edipack.json"
+    "edipack.json",
+    "valepack.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
